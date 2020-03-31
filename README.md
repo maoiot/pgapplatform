@@ -1,2 +1,2 @@
-# pgapplatform
-Test repository
+# PgAppPlatform
+Test repository for GIT hub communications
